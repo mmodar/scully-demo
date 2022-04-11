@@ -1,0 +1,11 @@
+identifier: l41es5y2aeh90e1b
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: boost-angular-app-seo
+homeFolder: D:\repos\ng\scully\boost-angular-app-seo
+distFolder: dist/boost-angular-app-seo
+outDir: D:\repos\ng\scully\boost-angular-app-seo\dist\static
+handle404: ''
+allowErrorCollect: true
